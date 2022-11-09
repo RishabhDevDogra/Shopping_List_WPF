@@ -1,3 +1,4 @@
+< Open WpfApp3 folder for the Project then open it in Visual Studio > 
 
 An online shop  (WPF app) that calculates the total amount of the bill.
 The app displays an items menu in four ComboBoxes. Each ComboBox should contain a category 
